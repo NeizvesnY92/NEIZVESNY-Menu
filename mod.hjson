@@ -1,0 +1,6 @@
+name: neizvesny-menu
+displayName: NEIZVESNY Menu
+author: NeizvesnY
+version: 0.3
+minGameVersion: 146
+description: "Experimental Dungeon Synth main-menu logo replacement. Preserves the original build label."
